@@ -1,0 +1,11 @@
+
+  .saveButton {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+  .trix-button-row {
+      position: absolute;
+      top: -29px;
+      left: 31px;
+  }

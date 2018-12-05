@@ -1,0 +1,16 @@
+.trix-container {
+  position: absolute;
+  width: 800px;
+  height: 500px;
+  padding: 30px;
+}
+.output-container {
+  position: absolute;
+  display:block;
+  border:1px solid black;
+  left: 900px;
+  width: 800px;
+  min-height: 34px;
+  top:62px;
+  padding: 30px;
+}
